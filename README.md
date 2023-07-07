@@ -1,6 +1,7 @@
 # Cloud-Storage-Web-App
 
-Jump In este un joc de tip puzzle facut in C++. 
-Scopul jocului este de a muta iepurii în tunele. Aceștia se pot mișca doar sărind peste obiecte
+Cloud Storage este o aplicație web de gestionare a fișierelor în cloud, realizată in React, express.js și Google Cloud Storage. Această aplicație oferă unui utilizator posibilitatea de a încărca, descărca sau partaja printr-un link fișiere și directoare.
 
 ![alt text](https://github.com/MEinfo724/Cloud-Storage-Web-App/blob/main/gitpoze/gitpoza1.png)
+![alt text](https://github.com/MEinfo724/Cloud-Storage-Web-App/blob/main/gitpoze/gitpoza2.png)
+![alt text](https://github.com/MEinfo724/Cloud-Storage-Web-App/blob/main/gitpoze/gitpoza3.png)
